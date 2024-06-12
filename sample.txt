@@ -1,1 +1,2 @@
 Git is a Version Control System
+Git has many commands like pull,push,status,commit.
